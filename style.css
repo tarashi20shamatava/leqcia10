@@ -19,7 +19,7 @@
 }
 .container a {
   color: #636060;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 header .logo {
   width: 60px;
@@ -40,7 +40,7 @@ header .logo {
   background-image: url(./img/Rectangle\ 1.jpg);
   height: 606px;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,15 +63,16 @@ header .logo {
   justify-content: center;
   align-items: center;
 }
-.div2 {
-  margin-left: 99px;
+.div22 {
+  margin-left: 150px;
+  margin-top: 50px;
 }
 .div2p {
   font-size: 17px;
   color: #636060;
 }
 .div2 h2 {
-  margin-top: 15;
+  margin-top: 25px;
 }
 .div2p2 {
   color: #636060;
